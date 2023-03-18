@@ -1,0 +1,171 @@
+
+body{
+
+}
+
+.container{
+
+    background-color: #111827;
+     width: 1920px;
+     height: 1080px;
+
+}
+
+.titulo{
+    color: white;
+    font-size: 64px;
+    font-weight: 400;
+    font-family: sans-serif;
+
+    width: 328px;
+    height: 75px;
+    left: 160px;
+    top: 80px;
+    position: absolute;
+
+}
+
+.bola{
+    position: absolute;
+width: 16px;
+height: 16px;
+left: 330px;
+top: 40px;
+
+}
+
+.fotos{
+    position: relative;
+    top: 274px;
+    left: 310px;
+}
+
+.caixaLogin{
+    background-color: white;
+    position: absolute;
+    width: 480px;
+    height: 476px;
+    left: 1000px;
+    border-radius: 4px;
+    top: 280px;
+}
+
+.caixaLogin h1{
+    font-size: 40px;
+    font-family: sans-serif;
+    font-weight: 600;
+    left: 186px;
+    position: absolute;
+}
+
+.inp-img{
+    top: 126px;
+    position: absolute;
+    left: 40px;
+}
+
+#foto{
+    /* background: rgba(113, 128, 185, 0.32); */
+    left: 5px;
+    top: 12px;
+    height: 48px;
+    position: absolute;
+}
+
+.email{
+    background: rgba(113, 128, 185, 0.32);
+    border: none ;
+    width: 400px;
+    height: 48px;
+    top: 400px;
+    border-radius: 4px;
+}
+
+.inp2{
+    top: 198px;
+    position: absolute;
+    left: 40px;
+
+}
+
+#foto2{
+
+    left: 5px;
+    top: 13px;
+    height: 48px;
+    position: absolute;
+}
+
+.senha{
+    background: rgba(113, 128, 185, 0.32);
+    border: none;
+    width: 400px;
+    height: 48px;
+    border-radius: 4px;
+}
+
+.botaologin{
+    background: #7180B9;
+    border-radius: 4px;
+    width: 400px;
+    height: 48px;
+    left: 40px;
+    top: 270px;
+    border: none;
+    position: absolute;
+    
+}
+
+.botaologin a{ 
+    text-decoration: none;
+    color: black;
+    font-family: sans-serif;
+    font-size: 16px;
+    font-weight: 600;
+
+}
+
+.caixainvisivel{
+    position: absolute;
+    width: 124px;
+    height: 0px;
+    left: 178px;
+    top: 342px;
+    /* background-color: aqua; */
+    border: 2px solid rgba(0, 0, 0, 0.32);
+    }
+
+
+.final h1{
+    font-size: 20px;
+    font-family: sans-serif;
+    font-weight: 600;
+    left: 40px;
+    top: 386px;
+}
+
+.final button{
+    align-items: center;
+    height: 48px;
+    width: 244px;
+    left: 196px;
+    top: 385px;
+    position: absolute;
+    /* justify-content: center; */
+    background: #7180B9;
+    border: none;
+    border-radius: 4px
+}
+
+.git{
+    font-size: 16px;
+    padding: 14px 0px;
+    text-decoration: none;
+    color: black;
+    font-weight: 600;
+}
+
+
+
+
+
